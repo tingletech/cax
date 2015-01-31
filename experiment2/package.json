@@ -1,0 +1,17 @@
+{
+  "name": "experiment2",
+  "version": "1.0.0",
+  "description": "xml \"signature\" experiment",
+  "main": "cax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Tingle",
+  "license": "BSD",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "libxmljs": "^0.13.0",
+    "xml-c14n": "0.0.6",
+    "xmldom": "^0.1.19"
+  }
+}
